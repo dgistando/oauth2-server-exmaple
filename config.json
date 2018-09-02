@@ -1,0 +1,8 @@
+{
+    "username":"auth_user",
+    "password":"password",
+    "contactPoints":["ip of cluster"],
+    "options" : {
+        "keyspace":"name of keyspace"
+    }
+}
